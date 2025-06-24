@@ -1,0 +1,30 @@
+ {
+ "m_Version": 12,
+    "DisplayName": "#Шкуры| Pelt",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Skins"
+    ],
+    "Items": {
+        "SheepPelt": 1,
+        "GoatPelt": 1,
+        "WildboarPelt": 1,
+        "DeerPelt": 1,
+        "BearPelt": 1,
+        "WolfPelt": 1,
+        "RabbitPelt": 1,
+        "FoxPelt": 1,
+        "PigPelt": 1,
+        "ReindeerPelt": 1,
+        "CowPelt": 1
+    }
+}
