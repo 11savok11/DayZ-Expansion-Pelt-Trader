@@ -1,15 +1,15 @@
 {
     "m_Version": 12,
-    "DisplayName": "SAVOK_MARKET_SKIN",
+    "DisplayName": "Шкуры",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
-    "InitStockPercent": 75.0,
+    "InitStockPercent": 100.0,
     "Items": [
         {
             "ClassName": "SheepPelt",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 8000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "GoatPelt",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 8000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
@@ -29,9 +29,9 @@
             "Variants": []
         },
         {
-            "ClassName": "BoarPelt",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
+            "ClassName": "WildboarPelt",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 12000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "DeerPelt",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 12000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "BearPelt",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "WolfPelt",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 7500,
+            "MinPriceThreshold": 7500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "RabbitPelt",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "FoxPelt",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
@@ -96,8 +96,8 @@
         },
         {
             "ClassName": "PigPelt",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
@@ -107,8 +107,8 @@
         },
         {
             "ClassName": "ReindeerPelt",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 12000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
@@ -118,14 +118,47 @@
         },
         {
             "ClassName": "CowPelt",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 0,
             "MinStockThreshold": 0,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [] 
+        },
+        {
+            "ClassName": "Bone",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Guts",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ChickenFeather",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 0,
+            "MinStockThreshold": 0,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
