@@ -1,6 +1,6 @@
  {
  "m_Version": 12,
-    "DisplayName": "#Шкуры| Pelt",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_SPECIAL",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
@@ -25,6 +25,9 @@
         "FoxPelt": 1,
         "PigPelt": 1,
         "ReindeerPelt": 1,
-        "CowPelt": 1
+        "CowPelt": 1,
+        "Bone": 1,
+        "Guts": 1,
+        "ChickenFeather": 1
     }
 }
